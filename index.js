@@ -21,6 +21,7 @@ let students=20;
 //students=students-1;
 //students = students*3;
 students = students%3;
+for exponent we use (a ** b)(3^4)
 
 document.write(students);
 //operator predence
